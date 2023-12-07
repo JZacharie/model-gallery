@@ -10,7 +10,7 @@ description: |
 config_file: |
   backend: whisper
   parameters:
-    model: ggml-whisper-large.bin
+    model: ggml-large-v3.bin
 
 files:
 - filename: "ggml-large-v3.bin"
